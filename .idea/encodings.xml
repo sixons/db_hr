@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/Js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/struts-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/addeducate.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/addinstitution.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/addjob.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/addstipend.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/adduser.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/detaileducate.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/detailinstitution.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/detailjob.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/error.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/left.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/listeducate.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/listinstitution.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/listjob.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/liststipend.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/listuser.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/main.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/mainfra.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/manage.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/top.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/updateeducate.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/updateinstitution.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/updatestipend.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/updateuser.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/welcome.jsp" charset="GBK" />
+  </component>
+</project>
